@@ -9,8 +9,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Smart Contract Lottery</title>
-        <meta name="description" content="Our smart contract lottery" />
+        <title>Buvarian Buttheads</title>
+        <meta name="description" content="The Greatest NFT Ever Created" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {/* header / connect button / nav bar */}
